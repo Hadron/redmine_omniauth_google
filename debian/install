@@ -1,0 +1,8 @@
+*rb /usr/share/redmine/plugins/redmine_omniauth_google
+app /usr/share/redmine/plugins/redmine_omniauth_google
+# db /usr/share/redmine/plugins/redmine_omniauth_google
+# spec /usr/share/redmine/plugins/redmine_omniauth_google
+lib /usr/share/redmine/plugins/redmine_omniauth_google
+config /usr/share/redmine/plugins/redmine_omniauth_google
+assets/* /usr/share/redmine/public/plugin_assets/redmine_omniauth_google
+Gemfile /usr/share/redmine/plugins/redmine_omniauth_google

@@ -1,0 +1,5 @@
+redmine-plugin-omniauth-google (0.0.1+git20160304-1) unstable; urgency=low
+
+  * Initial release (closes: #).
+
+ -- Klee Dienes <klee@debian.org>  Sat, 05 Mar 2016 14:16:17 -0500

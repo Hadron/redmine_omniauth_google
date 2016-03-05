@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: redmine_omniauth_google
+Source: https://github.com/twinslash/redmine_omniauth_google
+
+Files: *
+Copyright: UNKNOWN
+License: UNKNOWN
